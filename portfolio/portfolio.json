@@ -1,0 +1,63 @@
+{
+	"meta": {
+		"title": "Vanier Spelling Bee - React Game",
+		"role": "Frontend Developer",
+		"type": "Solo project",
+		"audience": ["Recruiters", "Instructors", "Developers"],
+		"status": "Completed"
+	},
+
+	"overview": {
+		"summary": "An interactive spelling bee game inspired by The New York Times Spelling Bee, built with React and Bun as part of the Advanced Web Programming Techniques course at Vanier College.",
+		"problem": "Building interactive front-end applications requires a solid understanding of state management, component structure, and user-driven logic.",
+		"solution": "A small but complete game application that uses React state and hooks to manage gameplay, user input, and dynamic UI updates."
+	},
+
+	"responsibilities": [
+		"Designed and implemented the game logic using React state and hooks",
+		"Built reusable and readable React components",
+		"Handled user input, word validation, and game state updates",
+		"Configured and ran the project locally using Bun for development"
+	],
+
+	"tech_stack": ["React", "Bun", "JavaScript", "HTML5", "CSS3"],
+
+	"architecture": {
+		"approach": "Component-based React application with local state management, focused on clarity and separation of concerns.",
+		"data_flow": "Game state is managed using React state and hooks, with data flowing down through components and user actions triggering updates.",
+		"deployment": "Currently runs locally using Bun's development server; deployment planned for a later stage."
+	},
+
+	"key_features": [
+		"Interactive spelling bee gameplay inspired by The New York Times",
+		"Dynamic UI updates based on user input",
+		"State-driven game logic using React hooks",
+		"Clean component structure for maintainability and readability"
+	],
+
+	"challenges_and_learnings": [
+		"Managing game state cleanly across multiple components",
+		"Using React hooks effectively for interactive logic",
+		"Structuring components to avoid unnecessary re-renders",
+		"Debugging and testing user-driven edge cases"
+	],
+
+	"skills_demonstrated": [
+		"React fundamentals (state, hooks, components)",
+		"Front-end application logic",
+		"Local development using Bun",
+		"Problem-solving through interactive UI development"
+	],
+
+	"future_improvements": [
+		"Deploy the application for public access",
+		"Add scoring rules and difficulty levels",
+		"Improve UI polish and animations",
+		"Expand word validation and feedback"
+	],
+
+	"links": {
+		"live_demo": "",
+		"source_code": ""
+	}
+}
